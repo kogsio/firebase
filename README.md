@@ -1,7 +1,7 @@
 # firebase
 Code for Firebase serverless services - web app.
 
-## Compete before using code
+## Complete before using code
 1. Go to firebase, https://firebase.google.com/
 1. Sign in
 1. Go to console
